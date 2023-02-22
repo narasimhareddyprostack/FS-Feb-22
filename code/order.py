@@ -1,3 +1,3 @@
 import pymongo
 
-print("GM")
+print("GN")
