@@ -1,3 +1,3 @@
 import pymongo
 
-print("GN")
+print("Good Morning! Good Night")
